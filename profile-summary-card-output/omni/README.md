@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/stefanobang/stefanobang123/master/profile-summary-card-output/omni/4-productive-time.svg)
-```
-
-    
